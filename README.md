@@ -1,0 +1,1 @@
+ONE is a simulator for Opportunistic Networking used widely for Research Purposes. We made changes and introduced blackhole and greyhole nodes in the network. We have also applied our algorithm on the simulator and generated results.
